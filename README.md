@@ -1,4 +1,4 @@
-# Workspai
+# Workspai (by RapidKit)
 
 Your navigation hub for Workspai and RapidKit.
 
